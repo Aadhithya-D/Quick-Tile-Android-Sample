@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickTileTest</string>
+    <string name="tile_label">Add Wallet</string>
+</resources>
